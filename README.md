@@ -25,9 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lnyyy6&layout=compact&langs_count=8" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lnyyy6" height="150" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lnyyy6&label=Profile%20Views&style=flat" alt="profile views" />
