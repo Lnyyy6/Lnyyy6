@@ -13,9 +13,9 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=ts,js,react,,tailwind,vite,webpack,rollup" />
+  <p><img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,vite,webpack,rollup" /></p>
 
-  <img src="https://skillicons.dev/icons?i=nginx,nodejs,nextjs,nestjs,redis,mysql,docker,prisma,electicsearch" />
+  <p><img src="https://skillicons.dev/icons?i=nginx,nodejs,nextjs,nestjs,redis,mysql,docker" /></p>
 
 </div>
 
